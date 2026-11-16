@@ -1,0 +1,81 @@
+calibração reduzida: 18 instâncias x 3 sementes; 12 candidatos; 10/12 processos permitidos
+iniciando alfa=0.1 (1/12)
+[calibração 1/12] 1/54 execuções da configuração concluídas
+[calibração 1/12] 10/54 execuções da configuração concluídas
+[calibração 1/12] 20/54 execuções da configuração concluídas
+[calibração 1/12] 30/54 execuções da configuração concluídas
+[calibração 1/12] 40/54 execuções da configuração concluídas
+[calibração 1/12] 50/54 execuções da configuração concluídas
+[calibração 1/12] 54/54 execuções da configuração concluídas
+iniciando alfa=0.3 (2/12)
+[calibração 2/12] 1/54 execuções da configuração concluídas
+[calibração 2/12] 10/54 execuções da configuração concluídas
+[calibração 2/12] 20/54 execuções da configuração concluídas
+[calibração 2/12] 30/54 execuções da configuração concluídas
+[calibração 2/12] 40/54 execuções da configuração concluídas
+[calibração 2/12] 50/54 execuções da configuração concluídas
+[calibração 2/12] 54/54 execuções da configuração concluídas
+iniciando alfa=0.5 (3/12)
+[calibração 3/12] 1/54 execuções da configuração concluídas
+[calibração 3/12] 10/54 execuções da configuração concluídas
+[calibração 3/12] 20/54 execuções da configuração concluídas
+[calibração 3/12] 30/54 execuções da configuração concluídas
+[calibração 3/12] 40/54 execuções da configuração concluídas
+[calibração 3/12] 50/54 execuções da configuração concluídas
+[calibração 3/12] 54/54 execuções da configuração concluídas
+passada 1 | alfa: 0.1→0.229% (36.1s), 0.3→0.129% (35.1s), 0.5→0.120% (33.7s)  ==> 0.5
+iniciando iteracoes_grasp=50 (4/12)
+[calibração 4/12] 1/54 execuções da configuração concluídas
+[calibração 4/12] 10/54 execuções da configuração concluídas
+[calibração 4/12] 20/54 execuções da configuração concluídas
+[calibração 4/12] 30/54 execuções da configuração concluídas
+[calibração 4/12] 40/54 execuções da configuração concluídas
+[calibração 4/12] 50/54 execuções da configuração concluídas
+[calibração 4/12] 54/54 execuções da configuração concluídas
+iniciando iteracoes_grasp=200 (5/12)
+iniciando iteracoes_grasp=500 (6/12)
+[calibração 6/12] 1/54 execuções da configuração concluídas
+[calibração 6/12] 10/54 execuções da configuração concluídas
+[calibração 6/12] 20/54 execuções da configuração concluídas
+[calibração 6/12] 30/54 execuções da configuração concluídas
+[calibração 6/12] 40/54 execuções da configuração concluídas
+[calibração 6/12] 50/54 execuções da configuração concluídas
+[calibração 6/12] 54/54 execuções da configuração concluídas
+passada 1 | iteracoes_grasp: 50→0.085% (23.7s), 200→0.120% (33.7s), 500→0.034% (48.1s)  ==> 500
+iniciando limite_estagnacao=10 (7/12)
+[calibração 7/12] 1/54 execuções da configuração concluídas
+[calibração 7/12] 10/54 execuções da configuração concluídas
+[calibração 7/12] 20/54 execuções da configuração concluídas
+[calibração 7/12] 30/54 execuções da configuração concluídas
+[calibração 7/12] 40/54 execuções da configuração concluídas
+[calibração 7/12] 50/54 execuções da configuração concluídas
+[calibração 7/12] 54/54 execuções da configuração concluídas
+iniciando limite_estagnacao=20 (8/12)
+iniciando limite_estagnacao=35 (9/12)
+[calibração 9/12] 1/54 execuções da configuração concluídas
+[calibração 9/12] 10/54 execuções da configuração concluídas
+[calibração 9/12] 20/54 execuções da configuração concluídas
+[calibração 9/12] 30/54 execuções da configuração concluídas
+[calibração 9/12] 40/54 execuções da configuração concluídas
+[calibração 9/12] 50/54 execuções da configuração concluídas
+[calibração 9/12] 54/54 execuções da configuração concluídas
+passada 1 | limite_estagnacao: 10→0.095% (35.7s), 20→0.071% (48.1s), 35→0.047% (53.7s)  ==> 35
+iniciando intensidade_shaking=1 (10/12)
+[calibração 10/12] 1/54 execuções da configuração concluídas
+[calibração 10/12] 10/54 execuções da configuração concluídas
+[calibração 10/12] 20/54 execuções da configuração concluídas
+[calibração 10/12] 30/54 execuções da configuração concluídas
+[calibração 10/12] 40/54 execuções da configuração concluídas
+[calibração 10/12] 50/54 execuções da configuração concluídas
+[calibração 10/12] 54/54 execuções da configuração concluídas
+iniciando intensidade_shaking=2 (11/12)
+iniciando intensidade_shaking=3 (12/12)
+[calibração 12/12] 1/54 execuções da configuração concluídas
+[calibração 12/12] 10/54 execuções da configuração concluídas
+[calibração 12/12] 20/54 execuções da configuração concluídas
+[calibração 12/12] 30/54 execuções da configuração concluídas
+[calibração 12/12] 40/54 execuções da configuração concluídas
+[calibração 12/12] 50/54 execuções da configuração concluídas
+[calibração 12/12] 54/54 execuções da configuração concluídas
+passada 1 | intensidade_shaking: 1→0.310% (79.3s), 2→0.047% (53.7s), 3→0.047% (49.4s)  ==> 3
+valores finais: {'alfa': 0.5, 'iteracoes_grasp': 500, 'limite_estagnacao': 35, 'intensidade_shaking': 3}

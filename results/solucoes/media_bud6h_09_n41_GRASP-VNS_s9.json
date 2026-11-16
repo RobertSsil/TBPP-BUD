@@ -1,0 +1,130 @@
+{
+ "custo": 190000.0,
+ "n_frascos": 9,
+ "sobra": 144.0,
+ "utilizacao": 96.21052631578948,
+ "frascos": [
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 45,
+   "validade": 405.0,
+   "pacientes": [
+    9,
+    25,
+    26,
+    27,
+    39
+   ],
+   "carga": 475.0
+  },
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 270,
+   "validade": 630.0,
+   "pacientes": [
+    2,
+    4,
+    11,
+    18,
+    31
+   ],
+   "carga": 491.0
+  },
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 255,
+   "validade": 615.0,
+   "pacientes": [
+    13,
+    19,
+    24,
+    28,
+    30
+   ],
+   "carga": 453.0
+  },
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 360,
+   "validade": 720.0,
+   "pacientes": [
+    14,
+    15,
+    20,
+    21,
+    34,
+    37
+   ],
+   "carga": 500.0
+  },
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 90,
+   "validade": 450.0,
+   "pacientes": [
+    5,
+    7,
+    33,
+    35,
+    38,
+    40
+   ],
+   "carga": 500.0
+  },
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 120,
+   "validade": 480.0,
+   "pacientes": [
+    10,
+    12,
+    22,
+    23,
+    32,
+    36
+   ],
+   "carga": 500.0
+  },
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 0,
+   "validade": 360.0,
+   "pacientes": [
+    1,
+    6,
+    8,
+    17,
+    29
+   ],
+   "carga": 500.0
+  },
+  {
+   "tipo": 3,
+   "capacidade": 100.0,
+   "abertura": 75,
+   "validade": 435.0,
+   "pacientes": [
+    0
+   ],
+   "carga": 65.0
+  },
+  {
+   "tipo": 4,
+   "capacidade": 200.0,
+   "abertura": 30,
+   "validade": 390.0,
+   "pacientes": [
+    3,
+    16
+   ],
+   "carga": 172.0
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "nome": "pequena_bud6h_05_n14",
+ "doses": [
+  79.0,
+  92.0,
+  65.0,
+  94.0,
+  90.0,
+  80.0,
+  90.0,
+  90.0,
+  101.0,
+  75.0,
+  86.0,
+  85.0,
+  79.0,
+  86.0
+ ],
+ "horarios": [
+  120,
+  75,
+  390,
+  210,
+  105,
+  210,
+  555,
+  480,
+  435,
+  525,
+  555,
+  285,
+  285,
+  315
+ ],
+ "tipos": [
+  {
+   "capacidade": 10.0,
+   "custo": 500.0
+  },
+  {
+   "capacidade": 25.0,
+   "custo": 1250.0
+  },
+  {
+   "capacidade": 50.0,
+   "custo": 2500.0
+  },
+  {
+   "capacidade": 100.0,
+   "custo": 5000.0
+  },
+  {
+   "capacidade": 200.0,
+   "custo": 10000.0
+  },
+  {
+   "capacidade": 500.0,
+   "custo": 25000.0
+  }
+ ],
+ "bud": 360.0,
+ "t_max": 600,
+ "classe": "pequena",
+ "semente": 1605,
+ "meta": {
+  "dose_mg_m2": 50.0,
+  "sc_media": 1.8,
+  "sc_desvio": 0.2,
+  "custo_por_mg": 50.0,
+  "intervalo_agenda_min": 15,
+  "bud_horas": 6
+ }
+}

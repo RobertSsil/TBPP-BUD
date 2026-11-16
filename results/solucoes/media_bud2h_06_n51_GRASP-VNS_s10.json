@@ -1,0 +1,158 @@
+{
+ "custo": 245000.0,
+ "n_frascos": 11,
+ "sobra": 266.0,
+ "utilizacao": 94.57142857142857,
+ "frascos": [
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 315,
+   "validade": 435.0,
+   "pacientes": [
+    4,
+    31,
+    38,
+    39,
+    41
+   ],
+   "carga": 498.0
+  },
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 495,
+   "validade": 615.0,
+   "pacientes": [
+    3,
+    8,
+    13,
+    17,
+    26
+   ],
+   "carga": 496.0
+  },
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 420,
+   "validade": 540.0,
+   "pacientes": [
+    10,
+    15,
+    34,
+    40,
+    44
+   ],
+   "carga": 453.0
+  },
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 225,
+   "validade": 345.0,
+   "pacientes": [
+    6,
+    12,
+    25,
+    28,
+    35,
+    43
+   ],
+   "carga": 496.0
+  },
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 540,
+   "validade": 660.0,
+   "pacientes": [
+    5,
+    14,
+    19,
+    21,
+    22,
+    23
+   ],
+   "carga": 500.0
+  },
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 150,
+   "validade": 270.0,
+   "pacientes": [
+    0,
+    9,
+    27,
+    36,
+    50
+   ],
+   "carga": 494.0
+  },
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 60,
+   "validade": 180.0,
+   "pacientes": [
+    30,
+    37,
+    47,
+    48,
+    49
+   ],
+   "carga": 489.0
+  },
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 135,
+   "validade": 255.0,
+   "pacientes": [
+    2,
+    11,
+    16,
+    29,
+    42
+   ],
+   "carga": 444.0
+  },
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 45,
+   "validade": 165.0,
+   "pacientes": [
+    18,
+    20,
+    24,
+    32,
+    46
+   ],
+   "carga": 432.0
+  },
+  {
+   "tipo": 4,
+   "capacidade": 200.0,
+   "abertura": 90,
+   "validade": 210.0,
+   "pacientes": [
+    1,
+    7
+   ],
+   "carga": 166.0
+  },
+  {
+   "tipo": 4,
+   "capacidade": 200.0,
+   "abertura": 345,
+   "validade": 465.0,
+   "pacientes": [
+    33,
+    45
+   ],
+   "carga": 166.0
+  }
+ ]
+}

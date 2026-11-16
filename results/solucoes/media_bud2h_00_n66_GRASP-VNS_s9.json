@@ -1,0 +1,191 @@
+{
+ "custo": 305000.0,
+ "n_frascos": 13,
+ "sobra": 214.0,
+ "utilizacao": 96.49180327868852,
+ "frascos": [
+  {
+   "tipo": 3,
+   "capacidade": 100.0,
+   "abertura": 540,
+   "validade": 660.0,
+   "pacientes": [
+    24
+   ],
+   "carga": 65.0
+  },
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 300,
+   "validade": 420.0,
+   "pacientes": [
+    21,
+    29,
+    38,
+    44,
+    49
+   ],
+   "carga": 460.0
+  },
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 255,
+   "validade": 375.0,
+   "pacientes": [
+    4,
+    11,
+    43,
+    62,
+    64
+   ],
+   "carga": 491.0
+  },
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 495,
+   "validade": 615.0,
+   "pacientes": [
+    18,
+    20,
+    30,
+    35,
+    37
+   ],
+   "carga": 455.0
+  },
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 135,
+   "validade": 255.0,
+   "pacientes": [
+    0,
+    25,
+    27,
+    51,
+    59
+   ],
+   "carga": 498.0
+  },
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 15,
+   "validade": 135.0,
+   "pacientes": [
+    12,
+    23,
+    36,
+    41,
+    53
+   ],
+   "carga": 424.0
+  },
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 465,
+   "validade": 585.0,
+   "pacientes": [
+    10,
+    26,
+    28,
+    40,
+    56,
+    60
+   ],
+   "carga": 500.0
+  },
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 270,
+   "validade": 390.0,
+   "pacientes": [
+    15,
+    46,
+    47,
+    50,
+    54
+   ],
+   "carga": 500.0
+  },
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 210,
+   "validade": 330.0,
+   "pacientes": [
+    5,
+    13,
+    14,
+    22,
+    52,
+    61
+   ],
+   "carga": 500.0
+  },
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 405,
+   "validade": 525.0,
+   "pacientes": [
+    17,
+    19,
+    32,
+    33,
+    55,
+    57
+   ],
+   "carga": 499.0
+  },
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 315,
+   "validade": 435.0,
+   "pacientes": [
+    2,
+    3,
+    7,
+    9,
+    16,
+    42
+   ],
+   "carga": 500.0
+  },
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 15,
+   "validade": 135.0,
+   "pacientes": [
+    1,
+    31,
+    39,
+    45,
+    48
+   ],
+   "carga": 500.0
+  },
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 90,
+   "validade": 210.0,
+   "pacientes": [
+    6,
+    8,
+    34,
+    58,
+    63,
+    65
+   ],
+   "carga": 494.0
+  }
+ ]
+}

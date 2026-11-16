@@ -1,0 +1,65 @@
+{
+ "nome": "pequena_bud2h_08_n10",
+ "doses": [
+  109.0,
+  83.0,
+  92.0,
+  81.0,
+  108.0,
+  94.0,
+  113.0,
+  86.0,
+  91.0,
+  83.0
+ ],
+ "horarios": [
+  15,
+  60,
+  360,
+  465,
+  360,
+  255,
+  600,
+  450,
+  450,
+  480
+ ],
+ "tipos": [
+  {
+   "capacidade": 10.0,
+   "custo": 500.0
+  },
+  {
+   "capacidade": 25.0,
+   "custo": 1250.0
+  },
+  {
+   "capacidade": 50.0,
+   "custo": 2500.0
+  },
+  {
+   "capacidade": 100.0,
+   "custo": 5000.0
+  },
+  {
+   "capacidade": 200.0,
+   "custo": 10000.0
+  },
+  {
+   "capacidade": 500.0,
+   "custo": 25000.0
+  }
+ ],
+ "bud": 120.0,
+ "t_max": 600,
+ "classe": "pequena",
+ "semente": 1208,
+ "meta": {
+  "dose_mg_m2": 50.0,
+  "sc_media": 1.8,
+  "sc_desvio": 0.2,
+  "custo_por_mg": 50.0,
+  "intervalo_agenda_min": 15,
+  "bud_horas": 2
+ }
+}

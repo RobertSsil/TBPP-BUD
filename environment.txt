@@ -1,0 +1,11 @@
+Sistema operacional: Windows 10 (10.0.26200)
+Arquitetura: AMD64
+Processador: Intel64 Family 6 Model 186 Stepping 2, GenuineIntel
+Núcleos lógicos: 12
+Python: 3.11.0rc2 (CPython)
+highspy (solver HiGHS): 1.16.0
+numpy: 2.4.6
+pandas: 3.1.1
+matplotlib: 3.11.2
+scipy: 1.17.1
+Paralelismo: execuções sequenciais; MILP com 1 thread (config/experimento.json)

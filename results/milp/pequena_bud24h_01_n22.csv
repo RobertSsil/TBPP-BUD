@@ -1,0 +1,2 @@
+instancia,classe,n,bud_h,status,otimo,custo,limite_inferior,gap_solver,tempo_s,tempo_limite_s,n_variaveis,n_restricoes
+pequena_bud24h_01_n22,pequena,22,24.0,Optimal,1,100000.0,100000.0,0.0,1.08,1800,720,85

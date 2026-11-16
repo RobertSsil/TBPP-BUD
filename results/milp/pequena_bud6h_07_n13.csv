@@ -1,0 +1,2 @@
+instancia,classe,n,bud_h,status,otimo,custo,limite_inferior,gap_solver,tempo_s,tempo_limite_s,n_variaveis,n_restricoes
+pequena_bud6h_07_n13,pequena,13,6.0,Optimal,1,65000.0,65000.0,0.0,0.13,1800,219,431

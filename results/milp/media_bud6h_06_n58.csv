@@ -1,0 +1,2 @@
+instancia,classe,n,bud_h,status,otimo,custo,limite_inferior,gap_solver,tempo_s,tempo_limite_s,n_variaveis,n_restricoes
+media_bud6h_06_n58,media,58,6.0,Time limit reached,0,270000.0,265000.0,0.018518518518518517,1800.35,1800,5103,10170

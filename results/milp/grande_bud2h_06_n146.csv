@@ -1,0 +1,2 @@
+instancia,classe,n,bud_h,status,otimo,custo,limite_inferior,gap_solver,tempo_s,tempo_limite_s,n_variaveis,n_restricoes
+grande_bud2h_06_n146,grande,146,2.0,Time limit reached,0,715000.0,655000.0,0.08391608391608392,1800.74,1800,31224,62363

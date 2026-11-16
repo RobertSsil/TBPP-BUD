@@ -1,0 +1,66 @@
+{
+ "custo": 100000.0,
+ "n_frascos": 4,
+ "sobra": 40.0,
+ "utilizacao": 98.0,
+ "frascos": [
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 0,
+   "validade": 1440.0,
+   "pacientes": [
+    3,
+    4,
+    8,
+    14,
+    15
+   ],
+   "carga": 460.0
+  },
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 15,
+   "validade": 1455.0,
+   "pacientes": [
+    0,
+    5,
+    6,
+    7,
+    16,
+    18
+   ],
+   "carga": 500.0
+  },
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 75,
+   "validade": 1515.0,
+   "pacientes": [
+    1,
+    2,
+    10,
+    13,
+    20
+   ],
+   "carga": 500.0
+  },
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 45,
+   "validade": 1485.0,
+   "pacientes": [
+    9,
+    11,
+    12,
+    17,
+    19,
+    21
+   ],
+   "carga": 500.0
+  }
+ ]
+}

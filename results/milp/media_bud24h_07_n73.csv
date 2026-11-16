@@ -1,0 +1,2 @@
+instancia,classe,n,bud_h,status,otimo,custo,limite_inferior,gap_solver,tempo_s,tempo_limite_s,n_variaveis,n_restricoes
+media_bud24h_07_n73,media,73,24.0,Optimal,1,345000.0,345000.0,0.0,1747.11,1800,8238,302

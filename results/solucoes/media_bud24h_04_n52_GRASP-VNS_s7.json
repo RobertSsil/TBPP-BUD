@@ -1,0 +1,159 @@
+{
+ "custo": 240000.0,
+ "n_frascos": 11,
+ "sobra": 103.0,
+ "utilizacao": 97.85416666666667,
+ "frascos": [
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 15,
+   "validade": 1455.0,
+   "pacientes": [
+    1,
+    7,
+    15,
+    21,
+    24
+   ],
+   "carga": 462.0
+  },
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 15,
+   "validade": 1455.0,
+   "pacientes": [
+    9,
+    23,
+    27,
+    32,
+    43,
+    46
+   ],
+   "carga": 500.0
+  },
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 60,
+   "validade": 1500.0,
+   "pacientes": [
+    25,
+    38,
+    49,
+    50,
+    51
+   ],
+   "carga": 474.0
+  },
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 90,
+   "validade": 1530.0,
+   "pacientes": [
+    12,
+    13,
+    22,
+    29,
+    31
+   ],
+   "carga": 500.0
+  },
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 150,
+   "validade": 1590.0,
+   "pacientes": [
+    0,
+    2,
+    11,
+    40,
+    45
+   ],
+   "carga": 500.0
+  },
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 180,
+   "validade": 1620.0,
+   "pacientes": [
+    3,
+    20,
+    34,
+    35,
+    37
+   ],
+   "carga": 500.0
+  },
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 30,
+   "validade": 1470.0,
+   "pacientes": [
+    4,
+    14,
+    19,
+    33,
+    42,
+    44
+   ],
+   "carga": 500.0
+  },
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 60,
+   "validade": 1500.0,
+   "pacientes": [
+    5,
+    8,
+    26,
+    36,
+    41,
+    48
+   ],
+   "carga": 500.0
+  },
+  {
+   "tipo": 5,
+   "capacidade": 500.0,
+   "abertura": 60,
+   "validade": 1500.0,
+   "pacientes": [
+    6,
+    10,
+    17,
+    28,
+    30,
+    47
+   ],
+   "carga": 500.0
+  },
+  {
+   "tipo": 4,
+   "capacidade": 200.0,
+   "abertura": 255,
+   "validade": 1695.0,
+   "pacientes": [
+    16,
+    18
+   ],
+   "carga": 179.0
+  },
+  {
+   "tipo": 3,
+   "capacidade": 100.0,
+   "abertura": 165,
+   "validade": 1605.0,
+   "pacientes": [
+    39
+   ],
+   "carga": 82.0
+  }
+ ]
+}

@@ -1,0 +1,317 @@
+
+=== 1/5 CALIBRAÇÃO — 13/11 16:52 (decorrido: 0 min) ===
+calibração reduzida: 18 instâncias x 3 sementes; 12 candidatos; 10/12 processos permitidos
+iniciando alfa=0.1 (1/12)
+[calibração 1/12] 1/54 execuções da configuração concluídas
+[calibração 1/12] 10/54 execuções da configuração concluídas
+Terminated
+�o 1/12] 20/54 execuções da configuração concluídas
+[calibração 1/12] 30/54 execuções da configuração concluídas
+[calibração 1/12] 40/54 execuções da configuração concluídas
+[calibração 1/12] 50/54 execuções da configuração concluídas
+[calibração 1/12] 54/54 execuções da configuração concluídas
+iniciando alfa=0.3 (2/12)
+[calibração 2/12] 1/54 execuções da configuração concluídas
+[calibração 2/12] 10/54 execuções da configuração concluídas
+[calibração 2/12] 20/54 execuções da configuração concluídas
+[calibração 2/12] 30/54 execuções da configuração concluídas
+[calibração 2/12] 40/54 execuções da configuração concluídas
+[calibração 2/12] 50/54 execuções da configuração concluídas
+[calibração 2/12] 54/54 execuções da configuração concluídas
+iniciando alfa=0.5 (3/12)
+[calibração 3/12] 1/54 execuções da configuração concluídas
+[calibração 3/12] 10/54 execuções da configuração concluídas
+[calibração 3/12] 20/54 execuções da configuração concluídas
+[calibração 3/12] 30/54 execuções da configuração concluídas
+[calibração 3/12] 40/54 execuções da configuração concluídas
+[calibração 3/12] 50/54 execuções da configuração concluídas
+[calibração 3/12] 54/54 execuções da configuração concluídas
+passada 1 | alfa: 0.1→0.229% (36.1s), 0.3→0.129% (35.1s), 0.5→0.120% (33.7s)  ==> 0.5
+iniciando iteracoes_grasp=50 (4/12)
+[calibração 4/12] 1/54 execuções da configuração concluídas
+[calibração 4/12] 10/54 execuções da configuração concluídas
+[calibração 4/12] 20/54 execuções da configuração concluídas
+[calibração 4/12] 30/54 execuções da configuração concluídas
+[calibração 4/12] 40/54 execuções da configuração concluídas
+[calibração 4/12] 50/54 execuções da configuração concluídas
+[calibração 4/12] 54/54 execuções da configuração concluídas
+iniciando iteracoes_grasp=200 (5/12)
+iniciando iteracoes_grasp=500 (6/12)
+[calibração 6/12] 1/54 execuções da configuração concluídas
+[calibração 6/12] 10/54 execuções da configuração concluídas
+[calibração 6/12] 20/54 execuções da configuração concluídas
+[calibração 6/12] 30/54 execuções da configuração concluídas
+[calibração 6/12] 40/54 execuções da configuração concluídas
+[calibração 6/12] 50/54 execuções da configuração concluídas
+[calibração 6/12] 54/54 execuções da configuração concluídas
+passada 1 | iteracoes_grasp: 50→0.085% (23.7s), 200→0.120% (33.7s), 500→0.034% (48.1s)  ==> 500
+iniciando limite_estagnacao=10 (7/12)
+[calibração 7/12] 1/54 execuções da configuração concluídas
+[calibração 7/12] 10/54 execuções da configuração concluídas
+[calibração 7/12] 20/54 execuções da configuração concluídas
+[calibração 7/12] 30/54 execuções da configuração concluídas
+[calibração 7/12] 40/54 execuções da configuração concluídas
+[calibração 7/12] 50/54 execuções da configuração concluídas
+[calibração 7/12] 54/54 execuções da configuração concluídas
+iniciando limite_estagnacao=20 (8/12)
+iniciando limite_estagnacao=35 (9/12)
+[calibração 9/12] 1/54 execuções da configuração concluídas
+[calibração 9/12] 10/54 execuções da configuração concluídas
+[calibração 9/12] 20/54 execuções da configuração concluídas
+[calibração 9/12] 30/54 execuções da configuração concluídas
+[calibração 9/12] 40/54 execuções da configuração concluídas
+[calibração 9/12] 50/54 execuções da configuração concluídas
+[calibração 9/12] 54/54 execuções da configuração concluídas
+passada 1 | limite_estagnacao: 10→0.095% (35.7s), 20→0.071% (48.1s), 35→0.047% (53.7s)  ==> 35
+iniciando intensidade_shaking=1 (10/12)
+[calibração 10/12] 1/54 execuções da configuração concluídas
+[calibração 10/12] 10/54 execuções da configuração concluídas
+[calibração 10/12] 20/54 execuções da configuração concluídas
+[calibração 10/12] 30/54 execuções da configuração concluídas
+[calibração 10/12] 40/54 execuções da configuração concluídas
+[calibração 10/12] 50/54 execuções da configuração concluídas
+[calibração 10/12] 54/54 execuções da configuração concluídas
+iniciando intensidade_shaking=2 (11/12)
+iniciando intensidade_shaking=3 (12/12)
+[calibração 12/12] 1/54 execuções da configuração concluídas
+[calibração 12/12] 10/54 execuções da configuração concluídas
+[calibração 12/12] 20/54 execuções da configuração concluídas
+[calibração 12/12] 30/54 execuções da configuração concluídas
+[calibração 12/12] 40/54 execuções da configuração concluídas
+[calibração 12/12] 50/54 execuções da configuração concluídas
+[calibração 12/12] 54/54 execuções da configuração concluídas
+passada 1 | intensidade_shaking: 1→0.310% (79.3s), 2→0.047% (53.7s), 3→0.047% (49.4s)  ==> 3
+valores finais: {'alfa': 0.5, 'iteracoes_grasp': 500, 'limite_estagnacao': 35, 'intensidade_shaking': 3}
+
+=== 2/5 MILP — 13/11 17:28 (decorrido: 37 min) ===
+aviso: 0.9 GB de RAM livres; MILP limitado a 1 processos (~0.5 GB cada). Ajuste 'paralelismo.memoria_por_milp_gb' se necessário.
+90 instâncias | 1 processo(s) em paralelo | 12 CPUs lógicas disponíveis | RAM livre: 0.9 GB
+Running HiGHS 1.16.0 (git hash: f3f113d): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+[1/90] grande_bud24h_00_n177  (1800s)
+[2/90] grande_bud24h_01_n182  (3604s)
+[3/90] grande_bud24h_02_n134  (16239s)
+[4/90] grande_bud24h_03_n184  (18041s)
+[5/90] grande_bud24h_04_n133  (21345s)
+[6/90] grande_bud24h_05_n186  (23148s)
+[7/90] grande_bud24h_06_n139  (24953s)
+[8/90] grande_bud24h_07_n199  (26761s)
+[9/90] grande_bud24h_08_n169  (28562s)
+[10/90] grande_bud24h_09_n167  (30362s)
+[11/90] grande_bud2h_00_n171  (32163s)
+[12/90] grande_bud2h_01_n102  (33964s)
+[13/90] grande_bud2h_02_n176  (35767s)
+[14/90] grande_bud2h_03_n115  (37567s)
+[15/90] grande_bud2h_04_n191  (39368s)
+[16/90] grande_bud2h_05_n132  (41168s)
+[17/90] grande_bud2h_06_n146  (42969s)
+[18/90] grande_bud2h_07_n164  (44771s)
+[19/90] grande_bud2h_08_n182  (46571s)
+[20/90] grande_bud2h_09_n140  (48372s)
+[21/90] grande_bud6h_00_n164  (50172s)
+[22/90] grande_bud6h_01_n149  (51973s)
+[23/90] grande_bud6h_02_n187  (53773s)
+[24/90] grande_bud6h_03_n133  (55574s)
+[25/90] grande_bud6h_04_n153  (57374s)
+[26/90] grande_bud6h_05_n144  (59174s)
+[27/90] grande_bud6h_06_n185  (60976s)
+[28/90] grande_bud6h_07_n150  (62776s)
+[29/90] grande_bud6h_08_n181  (64577s)
+[30/90] grande_bud6h_09_n146  (66377s)
+[31/90] media_bud24h_00_n82  (66464s)
+[32/90] media_bud24h_01_n65  (68264s)
+[33/90] media_bud24h_02_n57  (68269s)
+[34/90] media_bud24h_03_n63  (68351s)
+[35/90] media_bud24h_04_n52  (68807s)
+[36/90] media_bud24h_05_n59  (68813s)
+[37/90] media_bud24h_06_n92  (70637s)
+[38/90] media_bud24h_07_n73  (72384s)
+[39/90] media_bud24h_08_n48  (72415s)
+[40/90] media_bud24h_09_n65  (74332s)
+[41/90] media_bud2h_00_n66  (76132s)
+[42/90] media_bud2h_01_n49  (77932s)
+[43/90] media_bud2h_02_n85  (79733s)
+[44/90] media_bud2h_03_n34  (80670s)
+[45/90] media_bud2h_04_n39  (80773s)
+[46/90] media_bud2h_05_n74  (82573s)
+[47/90] media_bud2h_06_n51  (84374s)
+[48/90] media_bud2h_07_n55  (86174s)
+[49/90] media_bud2h_08_n98  (87974s)
+[50/90] media_bud2h_09_n36  (88619s)
+[51/90] media_bud6h_00_n40  (88622s)
+[52/90] media_bud6h_01_n95  (90422s)
+[53/90] media_bud6h_02_n73  (90728s)
+[54/90] media_bud6h_03_n46  (90799s)
+[55/90] media_bud6h_04_n43  (90815s)
+[56/90] media_bud6h_05_n82  (92616s)
+[57/90] media_bud6h_06_n58  (94416s)
+[58/90] media_bud6h_07_n84  (94943s)
+[59/90] media_bud6h_08_n64  (95055s)
+[60/90] media_bud6h_09_n41  (95074s)
+[61/90] pequena_bud24h_00_n25  (95114s)
+[62/90] pequena_bud24h_01_n22  (95115s)
+[63/90] pequena_bud24h_02_n21  (95116s)
+[64/90] pequena_bud24h_03_n10  (95116s)
+[65/90] pequena_bud24h_04_n22  (95117s)
+[66/90] pequena_bud24h_05_n15  (95117s)
+[67/90] pequena_bud24h_06_n18  (95118s)
+[68/90] pequena_bud24h_07_n11  (95118s)
+[69/90] pequena_bud24h_08_n16  (95118s)
+[70/90] pequena_bud24h_09_n11  (95118s)
+[71/90] pequena_bud2h_00_n19  (95122s)
+[72/90] pequena_bud2h_01_n16  (95124s)
+[73/90] pequena_bud2h_02_n19  (95124s)
+[74/90] pequena_bud2h_03_n16  (95129s)
+[75/90] pequena_bud2h_04_n22  (95136s)
+[76/90] pequena_bud2h_05_n30  (95362s)
+[77/90] pequena_bud2h_06_n20  (95376s)
+[78/90] pequena_bud2h_07_n30  (95430s)
+[79/90] pequena_bud2h_08_n10  (95430s)
+[80/90] pequena_bud2h_09_n27  (95575s)
+[81/90] pequena_bud6h_00_n10  (95575s)
+[82/90] pequena_bud6h_01_n22  (95584s)
+[83/90] pequena_bud6h_02_n18  (95584s)
+[84/90] pequena_bud6h_03_n26  (95586s)
+[85/90] pequena_bud6h_04_n10  (95586s)
+[86/90] pequena_bud6h_05_n14  (95587s)
+[87/90] pequena_bud6h_06_n26  (95587s)
+[88/90] pequena_bud6h_07_n13  (95588s)
+[89/90] pequena_bud6h_08_n15  (95590s)
+[90/90] pequena_bud6h_09_n23  (95596s)
+concluído. Rode: python analysis/analisar_resultados.py
+
+=== 3/5 HEURÍSTICAS — 14/11 20:02 (decorrido: 1630 min) ===
+90 instâncias | 10 processo(s) em paralelo | 12 CPUs lógicas disponíveis | RAM livre: 2.5 GB
+[1/90] grande_bud24h_00_n177  (601s)
+[2/90] grande_bud24h_02_n134  (601s)
+[3/90] grande_bud24h_01_n182  (601s)
+[4/90] grande_bud24h_04_n133  (601s)
+[5/90] grande_bud24h_03_n184  (601s)
+[6/90] grande_bud24h_06_n139  (601s)
+[7/90] grande_bud24h_05_n186  (601s)
+[8/90] grande_bud24h_09_n167  (601s)
+[9/90] grande_bud24h_08_n169  (601s)
+[10/90] grande_bud24h_07_n199  (601s)
+[11/90] grande_bud2h_01_n102  (1201s)
+[12/90] grande_bud2h_00_n171  (1201s)
+[13/90] grande_bud2h_03_n115  (1201s)
+[14/90] grande_bud2h_06_n146  (1201s)
+[15/90] grande_bud2h_02_n176  (1201s)
+[16/90] grande_bud2h_05_n132  (1201s)
+[17/90] grande_bud2h_04_n191  (1201s)
+[18/90] grande_bud2h_08_n182  (1201s)
+[19/90] grande_bud2h_07_n164  (1201s)
+[20/90] grande_bud2h_09_n140  (1201s)
+[21/90] grande_bud6h_01_n149  (1801s)
+[22/90] grande_bud6h_00_n164  (1801s)
+[23/90] grande_bud6h_05_n144  (1801s)
+[24/90] grande_bud6h_04_n153  (1801s)
+[25/90] grande_bud6h_03_n133  (1801s)
+[26/90] grande_bud6h_07_n150  (1801s)
+[27/90] grande_bud6h_06_n185  (1801s)
+[28/90] grande_bud6h_08_n181  (1801s)
+[29/90] grande_bud6h_02_n187  (1801s)
+[30/90] grande_bud6h_09_n146  (1801s)
+[31/90] media_bud24h_00_n82  (2401s)
+[32/90] media_bud24h_01_n65  (2401s)
+[33/90] media_bud24h_02_n57  (2401s)
+[34/90] media_bud24h_05_n59  (2401s)
+[35/90] media_bud24h_03_n63  (2401s)
+[36/90] media_bud24h_08_n48  (2401s)
+[37/90] media_bud24h_04_n52  (2401s)
+[38/90] media_bud24h_06_n92  (2401s)
+[39/90] media_bud24h_09_n65  (2401s)
+[40/90] media_bud24h_07_n73  (2401s)
+[41/90] media_bud2h_04_n39  (2857s)
+[42/90] media_bud2h_03_n34  (2977s)
+[43/90] media_bud2h_09_n36  (2982s)
+[44/90] media_bud2h_01_n49  (3001s)
+[45/90] media_bud2h_00_n66  (3001s)
+[46/90] media_bud2h_02_n85  (3001s)
+[47/90] media_bud2h_07_n55  (3001s)
+[48/90] media_bud2h_05_n74  (3001s)
+[49/90] media_bud2h_06_n51  (3001s)
+[50/90] media_bud2h_08_n98  (3001s)
+[51/90] media_bud6h_00_n40  (3344s)
+[52/90] media_bud6h_04_n43  (3533s)
+[53/90] media_bud6h_01_n95  (3577s)
+[54/90] media_bud6h_02_n73  (3582s)
+[55/90] media_bud6h_03_n46  (3601s)
+[56/90] media_bud6h_05_n82  (3601s)
+[57/90] media_bud6h_06_n58  (3601s)
+[58/90] media_bud6h_07_n84  (3601s)
+[59/90] media_bud6h_08_n64  (3601s)
+[60/90] media_bud6h_09_n41  (3601s)
+[61/90] pequena_bud24h_01_n22  (3625s)
+[62/90] pequena_bud24h_03_n10  (3626s)
+[63/90] pequena_bud24h_09_n11  (3679s)
+[64/90] pequena_bud24h_07_n11  (3687s)
+[65/90] pequena_bud24h_05_n15  (3693s)
+[66/90] pequena_bud24h_06_n18  (3711s)
+[67/90] pequena_bud2h_00_n19  (3732s)
+[68/90] pequena_bud2h_01_n16  (3741s)
+[69/90] pequena_bud24h_08_n16  (3772s)
+[70/90] pequena_bud24h_04_n22  (3788s)
+[71/90] pequena_bud24h_00_n25  (3792s)
+[72/90] pequena_bud2h_08_n10  (3814s)
+[73/90] pequena_bud2h_02_n19  (3820s)
+[74/90] pequena_bud6h_00_n10  (3834s)
+[75/90] pequena_bud24h_02_n21  (3841s)
+[76/90] pequena_bud2h_03_n16  (3856s)
+[77/90] pequena_bud6h_04_n10  (3888s)
+[78/90] pequena_bud2h_04_n22  (3931s)
+[79/90] pequena_bud6h_05_n14  (3955s)
+[80/90] pequena_bud2h_06_n20  (3975s)
+[81/90] pequena_bud6h_07_n13  (4039s)
+[82/90] pequena_bud6h_02_n18  (4042s)
+[83/90] pequena_bud6h_03_n26  (4066s)
+[84/90] pequena_bud2h_07_n30  (4075s)
+[85/90] pequena_bud6h_08_n15  (4082s)
+[86/90] pequena_bud6h_01_n22  (4091s)
+[87/90] pequena_bud6h_06_n26  (4113s)
+[88/90] pequena_bud2h_09_n27  (4121s)
+[89/90] pequena_bud6h_09_n23  (4122s)
+[90/90] pequena_bud2h_05_n30  (4177s)
+concluído. Rode: python analysis/analisar_resultados.py
+
+=== 4/5 ABLAÇÃO desativada pela configuração — pulando — 14/11 21:11 (decorrido: 1700 min) ===
+
+=== 5/5 ANÁLISE — 14/11 21:11 (decorrido: 1700 min) ===
+Matplotlib is building the font cache; this may take a moment.
+Instâncias analisadas: 90; execuções: 900
+Sementes por instância: 10
+Ótimos provados pelo MILP: 47
+
+== Desempenho por classe ==
+ Classe  Inst.  Ótimos MILP Gap médio (%)   DP Mín. Mediana Máx. Tempo médio (s) Tempo máx. (s) Tempo MILP médio (s)
+Pequena     30           30          0,00 0,00 0,00    0,00 0,00            17,6           53,9                   17
+  Média     30           17          0,62 0,91 0,00    0,00 3,39            58,8           60,0                  956
+ Grande     30            0          0,80 0,61 0,00    0,76 3,31            60,0           60,0                 2212
+
+== Classe x BUD ==
+ Classe BUD (h)    Referência Gap médio (%) DP gap Economia média (%) Economia mín.–máx. (%) Utilização (%) Tempo médio (s)
+Pequena       2 10 ót. / 0 LI          0,00   0,00              11,83             3,57–23,08           90,7            21,9
+Pequena       6 10 ót. / 0 LI          0,00   0,00              17,23             0,00–23,53           94,4            15,3
+Pequena      24 10 ót. / 0 LI          0,00   0,00              20,58             9,09–26,67           95,2            15,7
+  Média       2  3 ót. / 7 LI          1,32   1,03              19,08            14,81–23,08           96,3            58,1
+  Média       6  7 ót. / 3 LI          0,03   0,19              18,88            13,64–24,49           98,2            58,2
+  Média      24  7 ót. / 3 LI          0,51   0,73              19,77            12,50–22,97           98,2            60,0
+ Grande       2 0 ót. / 10 LI          1,12   0,46              19,87            16,67–21,88           98,3            60,0
+ Grande       6 0 ót. / 10 LI          0,47   0,42              21,20            18,67–23,81           99,2            60,0
+ Grande      24 0 ót. / 10 LI          0,80   0,72              20,25            17,22–22,44           98,9            60,0
+
+== Economia por BUD ==
+BUD (h) Economia média (%)   DP Mín. (%) Máx. (%) Economia do FFD (%) Sobra média (mg)
+      2              16,92 5,32     3,57    23,08               12,33              207
+      6              19,10 4,92     0,00    24,49               12,83               98
+     24              20,20 3,46     9,09    26,67               14,28              116
+
+== Comparação de métodos ==
+ Classe FFD gap (%) GRASP-VNS gap (%)
+Pequena        2,78       0,00 ± 0,00
+  Média        8,95       0,62 ± 0,91
+ Grande       10,79       0,80 ± 0,61
+
+Tabelas e figuras em C:\Users\Robert Silva\Documents\tbpp_bud\results\analise
+
+=== === TUDO CONCLUÍDO === — 14/11 21:11 (decorrido: 1700 min) ===

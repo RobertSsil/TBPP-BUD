@@ -1,0 +1,11 @@
+instancia,classe,n,bud_h,metodo,semente,custo,n_frascos,sobra_mg,utilizacao,tempo_s,tempo_ate_melhor_s,iteracoes,viavel,mov_swap,mov_shift,mov_merge,mov_consolidar,mov_resize
+pequena_bud2h_08_n10,pequena,10,2.0,GRASP-VNS,1,50000.0,4,60.0,94.0,4.164,0.0086,500,1,1242,1219,25051,989,511
+pequena_bud2h_08_n10,pequena,10,2.0,GRASP-VNS,2,50000.0,4,60.0,94.0,4.1897,0.0092,500,1,1249,1215,25213,965,527
+pequena_bud2h_08_n10,pequena,10,2.0,GRASP-VNS,3,50000.0,4,60.0,94.0,4.0513,0.0134,500,1,1229,1243,25507,953,551
+pequena_bud2h_08_n10,pequena,10,2.0,GRASP-VNS,4,50000.0,4,60.0,94.0,4.2636,0.0091,500,1,1318,1255,25261,951,560
+pequena_bud2h_08_n10,pequena,10,2.0,GRASP-VNS,5,50000.0,4,60.0,94.0,4.0978,0.0094,500,1,1259,1262,25022,946,514
+pequena_bud2h_08_n10,pequena,10,2.0,GRASP-VNS,6,50000.0,4,60.0,94.0,4.0594,0.0088,500,1,1148,1167,24946,950,500
+pequena_bud2h_08_n10,pequena,10,2.0,GRASP-VNS,7,50000.0,4,60.0,94.0,4.2434,0.0074,500,1,1228,1168,25319,940,527
+pequena_bud2h_08_n10,pequena,10,2.0,GRASP-VNS,8,50000.0,4,60.0,94.0,4.0497,0.0044,500,1,1296,1185,25480,977,515
+pequena_bud2h_08_n10,pequena,10,2.0,GRASP-VNS,9,50000.0,4,60.0,94.0,4.2229,0.0084,500,1,1236,1238,25287,969,556
+pequena_bud2h_08_n10,pequena,10,2.0,GRASP-VNS,10,50000.0,4,60.0,94.0,4.1522,0.0117,500,1,1289,1182,25238,939,547

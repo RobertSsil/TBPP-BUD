@@ -1,0 +1,59 @@
+{
+ "parametros": {
+  "alfa": 0.5,
+  "iteracoes_grasp": 500,
+  "limite_estagnacao": 35,
+  "intensidade_shaking": 3
+ },
+ "processos": 10,
+ "criterio": "RPD médio vs. melhor conhecido; desempate por tempo médio",
+ "sementes": [
+  1,
+  2,
+  3
+ ],
+ "instancias": [
+  "grande_bud24h_00_n131",
+  "grande_bud24h_01_n147",
+  "grande_bud2h_00_n162",
+  "grande_bud2h_01_n181",
+  "grande_bud6h_00_n182",
+  "grande_bud6h_01_n103",
+  "media_bud24h_00_n41",
+  "media_bud24h_01_n58",
+  "media_bud2h_00_n41",
+  "media_bud2h_01_n86",
+  "media_bud6h_00_n47",
+  "media_bud6h_01_n49",
+  "pequena_bud24h_00_n23",
+  "pequena_bud24h_01_n14",
+  "pequena_bud2h_00_n24",
+  "pequena_bud2h_01_n19",
+  "pequena_bud6h_00_n24",
+  "pequena_bud6h_01_n25"
+ ],
+ "passadas": 1,
+ "candidatos": {
+  "alfa": [
+   0.1,
+   0.3,
+   0.5
+  ],
+  "iteracoes_grasp": [
+   50,
+   200,
+   500
+  ],
+  "limite_estagnacao": [
+   10,
+   20,
+   35
+  ],
+  "intensidade_shaking": [
+   1,
+   2,
+   3
+  ]
+ },
+ "protocolo": "calibracao exploratoria reduzida: 3 candidatos por parametro; nao equivalente a varredura original"
+}

@@ -1,0 +1,11 @@
+instancia,classe,n,bud_h,metodo,semente,custo,n_frascos,sobra_mg,utilizacao,tempo_s,tempo_ate_melhor_s,iteracoes,viavel,mov_swap,mov_shift,mov_merge,mov_consolidar,mov_resize
+pequena_bud24h_03_n10,pequena,10,24.0,GRASP-VNS,1,50000.0,2,98.0,90.2,4.4342,0.0113,500,1,25557,169,24537,1310,0
+pequena_bud24h_03_n10,pequena,10,24.0,GRASP-VNS,2,50000.0,2,98.0,90.2,4.4024,0.0081,500,1,25557,174,24552,1306,0
+pequena_bud24h_03_n10,pequena,10,24.0,GRASP-VNS,3,50000.0,2,98.0,90.2,4.5705,0.0191,500,1,25800,164,24466,1311,0
+pequena_bud24h_03_n10,pequena,10,24.0,GRASP-VNS,4,50000.0,2,98.0,90.2,4.3111,0.0089,500,1,25810,213,24588,1299,0
+pequena_bud24h_03_n10,pequena,10,24.0,GRASP-VNS,5,50000.0,2,98.0,90.2,4.5978,0.0109,500,1,25796,200,24663,1302,0
+pequena_bud24h_03_n10,pequena,10,24.0,GRASP-VNS,6,50000.0,2,98.0,90.2,4.3673,0.0178,500,1,25617,177,24367,1296,0
+pequena_bud24h_03_n10,pequena,10,24.0,GRASP-VNS,7,50000.0,2,98.0,90.2,4.4525,0.0085,500,1,25610,164,24458,1320,0
+pequena_bud24h_03_n10,pequena,10,24.0,GRASP-VNS,8,50000.0,2,98.0,90.2,4.4891,0.0089,500,1,25073,174,24550,1311,0
+pequena_bud24h_03_n10,pequena,10,24.0,GRASP-VNS,9,50000.0,2,98.0,90.2,4.3764,0.0091,500,1,24895,180,24422,1306,0
+pequena_bud24h_03_n10,pequena,10,24.0,GRASP-VNS,10,50000.0,2,98.0,90.2,4.4112,0.0078,500,1,25731,205,24559,1301,0
